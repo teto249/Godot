@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dpep7xgaif2kx"
+path="res://.godot/imported/Chase At Rush Hour.ogg-c3108cf9ab964c7a3044e16d39a23bd2.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/music/Chase At Rush Hour.ogg"
+dest_files=["res://.godot/imported/Chase At Rush Hour.ogg-c3108cf9ab964c7a3044e16d39a23bd2.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
